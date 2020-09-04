@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413611738349",
+    "firebase_url": "https://newtalk-99f87.firebaseio.com",
+    "project_id": "newtalk-99f87",
+    "storage_bucket": "newtalk-99f87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413611738349:android:2e0d5b91e02f6466a738e4",
+        "android_client_info": {
+          "package_name": "com.hanul.talktalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413611738349-apm93l97vu96v4inph4mtfjpcqbs7a5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6UXC9J6skMRCpZuMq_dphkmbD07IJQP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413611738349-apm93l97vu96v4inph4mtfjpcqbs7a5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
